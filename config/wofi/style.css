@@ -1,0 +1,47 @@
+/* Основные стили */
+window {
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #2E3B4E;
+    border: 2px solid #FF5722;
+}
+
+entry {
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #3F4C60;
+    color: #FFFFFF;
+    font-size: 14px;
+}
+
+/* Стили подсказок */
+label {
+    color: #B0BEC5;
+    font-size: 12px;
+}
+
+/* Стили выделения */
+entry:selected {
+    background-color: #FF5722;
+    color: #FFFFFF;
+}
+
+/* Стили списка */
+list {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+list > entry {
+    padding: 8px 12px;
+    margin: 4px 0;
+    border-radius: 5px;
+    background-color: #37474F;
+    color: #CFD8DC;
+}
+
+list > entry:selected {
+    background-color: #FFC107;
+    color: #212121;
+}

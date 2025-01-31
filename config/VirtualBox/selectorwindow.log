@@ -1,0 +1,23 @@
+00:00:00.269475 VirtualBox GUI VM Selector Window 7.1.4 r165100 linux.amd64 (Oct 10 2024 17:18:29) release log
+00:00:00.269477 Log opened 2025-01-30T18:14:43.787152000Z
+00:00:00.269477 Build Type: release
+00:00:00.269479 OS Product: Linux
+00:00:00.269479 OS Release: 6.6.71
+00:00:00.269480 OS Version: #1-NixOS SMP PREEMPT_DYNAMIC Fri Jan 10 13:31:36 UTC 2025
+00:00:00.269503 DMI Product Name: 82K2
+00:00:00.269511 DMI Product Version: IdeaPad Gaming 3 15ACH6
+00:00:00.269515 Firmware type: UEFI
+00:00:00.269946 Secure Boot: Disabled
+00:00:00.269984 Host RAM: 7290MB (7.1GB) total, 2833MB (2.7GB) available
+00:00:00.269985 Executable: /nix/store/frdivx9czz798la5dnrn4l9c6zhgfzwx-virtualbox-7.1.4/libexec/virtualbox/VirtualBox
+00:00:00.269986 Process ID: 31022
+00:00:00.269986 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.270011 Qt version: 6.8.1
+00:00:00.270464 GUI: UIMediumEnumerator: Initial medium-enumeration finished!
+00:00:00.274586 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.274601 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.784150 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 560x140 x 800x800
+00:13:49.620457 GUI: UIMediumEnumerator: Medium with key={{17d42fe8-057e-44a6-b5cf-452a2cb1cb4f}} created
+00:13:49.769358 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:21:48.995557 GUI: UICommon: Handling aboutToQuit request..
+00:21:49.436238 GUI: UICommon: aboutToQuit request handled!

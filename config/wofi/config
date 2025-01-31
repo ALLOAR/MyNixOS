@@ -1,0 +1,22 @@
+[search]
+indicator-color = #FF5722
+highlight-color = #FFC107
+
+[display]
+prompt = "Введите текст: "
+font = "Fira Code 12"
+opacity = 0.9
+
+[window]
+width = 600
+height = 400
+border = 2
+border-color = #673AB7
+background-color = #263238
+
+[listing]
+fixed-columns = true
+rows = 10
+
+[behavior]
+enter-clears-prompt = false
